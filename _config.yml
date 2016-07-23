@@ -1,0 +1,14 @@
+layout_spectrum: 0.6060602
+typography_spectrum: 0.0725217
+color:
+  saturation: 0.6451613
+  lightness: 0.7338721
+  brandStrength: 0.7759857
+  rhythmicContrast: 0.03046595
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: yicreative1.1
